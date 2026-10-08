@@ -1,0 +1,13 @@
+{
+  "name": "Prelims Practice: UPSC quiz",
+  "short_name": "Prelims",
+  "description": "Random UPSC Prelims quizzes across GS and CSAT with daily current affairs.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#3451d1",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
