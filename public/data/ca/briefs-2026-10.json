@@ -2,6 +2,150 @@
  "month": "2026-10",
  "briefs": [
   {
+   "id": "3123623e2a",
+   "date": "2026-10-17",
+   "title": "RBI uses major share of forex reserves to defend rupee, Reuters reports",
+   "summary": "RBI uses major share of forex reserves to defend rupee, Reuters reports Traders Union",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbDJ0dlUyT1RqR3NqS2IyWEI0MWZKTHFHM0g1VGpmLVZCWGNKckZQMXBNaEttNGlZbVRzT3VXSHVrRS1YS2pOSWUyWUduSWdpQ0c2dXR2QjVCRnhwMGhGVk05VFBTc1BaMVVRNnhOeGJTT2RzU0x3UzRndHl0bkxYcDJZOTVNSUxEa0E?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "25a0c6c22b",
+   "date": "2026-10-17",
+   "title": "Kerala Textile & Garments Association warns UPI charges could fuel inflation, drive merchants back to cash",
+   "summary": "KTGA State president Pattabhiraman T.S. said UPI had evolved into essential public digital infrastructure and had generated significant benefits for governments, banks, payment platforms and the wider economy",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/kerala/kerala-textile-garments-association-warns-upi-charges-could-fuel-inflation-drive-merchants-back-to-cash/article71564637.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "8d99025c45",
+   "date": "2026-10-17",
+   "title": "Finance dept. decision against guarantees for KIIFB borrowings in three fiscals overruled during LDF tenure, says expert panel",
+   "summary": "Panel report says this amounts to serious violation of Rules of Business of the State",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/kerala/finance-dept-decision-against-guarantees-for-kiifb-borrowings-in-three-fiscals-overruled-by-ldf-sudha-pillai-panel/article71591457.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "1fe90b2f6d",
+   "date": "2026-10-17",
+   "title": "1,000 scientists, 100+ hours, 1 verdict: How the biggest climate report is made",
+   "summary": "1,000 scientists, 100+ hours, 1 verdict: How the biggest climate report is made India Today",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2gzQUppZlluTkdhekkzdFJ2MU5IRFVzQzFmQkdHaTcxcWtieXVMQVplcmxFR0NhZXdKQ1lJZk1fUFNBM1lRWXVsWFBwaENHYzVQTHVlTVFGWjlTVlJFSnpBYVVaeEVid3F4cVFhcWR0N21oa0tfMF9WNHlFVkFaOE80bmc0NTN4NEZYSXhxSl9ycFpHY2U4VkdPYjRuMy1zRW41UEhwZXRQb2NhUlVDNjduZ2RMNU5FZlgtenZTRTFfWnBKMEdmTjJRT0NLTWY0LWN5OTZXYzDSAd4BQVVfeXFMTWxuM1l4SV9HSjRFTXFMTGNTeFZFdHJWbnlnd00yUjVXYlRxYkJYR2FoN3c3NXQyRS1Ra2Jtdl9Bb05Zbk1ySWVqT3J2b1FqSlFfRXFlM2NXUmlibWtGdWpEY2w0RHdLLXdIeldiZnBJRlpJQ0NxSnpQRjJfSUEzSm5IVk5JX1k2Mzg5MjBnWlpGWjhYbzhiTTVfSkZWaG5BRWQ2ZzhsVFYtS1kxVkU2NzFNa2hGQnQ3MXBhZ2xPeC11LUNvd3B5Vi1LUHpycjNUdFFXckxYeFVvNWNOY3Jn?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "baa8e42540",
+   "date": "2026-10-17",
+   "title": "Keralam child rights commission files case over plight of students in leaky P&T Apartment Complex in Mundamveli",
+   "summary": "Panel issues notices seeking reports from Greater Cochin Development Authority, Kochi Corporation, Local Self-Government Department, Life Mission and District Collector",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/kerala/keralam-child-rights-commission-files-case-over-plight-of-students-in-leaky-pt-apartment-complex-in-mundamveli/article71595372.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "a010a96e22",
+   "date": "2026-10-17",
+   "title": "Keralam govt. to present resolution in Assembly seeking return of Private Universities Bill",
+   "summary": "The government is seeking to get the Bill returned to the House under the conditions set in Article 201 of the Constitution which deals with Bills reserved for consideration of the President",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-to-present-resolution-in-assembly-seeking-return-of-private-universities-bill/article71564043.ece",
+   "category": "Polity & Governance"
+  },
+  {
+   "id": "8cca2663e2",
+   "date": "2026-10-17",
+   "title": "North Korea says it tested new torpedo system with AI capabilities",
+   "summary": "North Korea has been ramping up weapons demonstrations in recent weeks, including conducting its first underwater-launched missile tests in nearly three years",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/north-korea-claims-to-have-tested-a-new-ai-enabled-zam-20-torpedo-system/article71595423.ece",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "37913afbcf",
+   "date": "2026-10-17",
+   "title": "ISRO completes Gaganyaan module separation tests ahead of 2026 mission",
+   "summary": "ISRO completes Gaganyaan module separation tests ahead of 2026 mission BusinessLine",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdmhyWjNGbFZkenNaUmZMMldPUDNXRFFMaDhyYTcxNXJlX2I0V1dPZFFYeHk4aDhYb1lWVTNTVmJUeXhEMElCWEF6TlkzaEYxamZlZ0VFYUhyMlhYUGV1MmdEWU9uTmRmUVVndng0czh5cDBqWnQ3cXRnTDlLWVZlUjZXblRZWlQyblNwRy1PWnY3d0wxQkhfbjNOZlY2TGplX2ZMOE55UGRsTjE4X3RkYVVKR2pkTGEtOEFYNmM2WnRPNWF2Sy1DSm5ONDEtbDVETzhURnlqR2NiN3NWUWw4WTFZdDFmQdIB7AFBVV95cUxNOURIR3ZlNm1IRHN2M0ZXbTZtWDh4VlpVdkZXdjZ3eDhCcWRMc0pLVkpRVk9wQmRRSWU1QVc5amkzSUVaWS1tYXc5ZlVSYUNBa3pOM2pHVHRUSVFaZzdvaGtTVEdIbV8xQkZ5Z3lCQnNYNHdrNjNoZnNkSXpEU1RsaThra09xQnViekxMR3MtaGktNS1QOWNWdXNSY1JGV3ByWlVKVmJMU1llYjdQTWRsVk1XSzBtR1ZiY1pKX1pGcEpQM0lPc2Q4N3NIMW1BZ0NQbDdfM2tyaGxTQkhLRVY3dUZXUjlFMXk2T1N2RA?oc=5",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "3a1b6becae",
+   "date": "2026-10-17",
+   "title": "Yes Bank to seek Supreme Court review of Rs 8,415 crore AT1 bond write-down verdict",
+   "summary": "Yes Bank to seek Supreme Court review of Rs 8,415 crore AT1 bond write-down verdict The Economic Times",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN2lvWG05YjVad3p5bG5hczcySXRGbDZ0X19MbDBsUFFCa3JmeW1naE9xRzVxeTZOX1RNdFU3akthM1I4ZkFWcTl1ZWpaZFY3VWN0eHF6cTB2X0Vmd0tPUlhYMkpST1BWTmJIT0ZTY2NGQjkyb3Zub3NrbURvc2tOUUY2c3l0ZHBqNzlacFVYc2tDZEs4ZGNmUXlUZW1DYURCT1RpWEhzRTlBTWJoMG9ucWNBaXNyanhIYXRNbldqNlNqUXhnX0phXzdYaHNWb192Tk41ZjEwVnJ4c2VyMFRwN2JGZ0Q5d2tTTnhnUmc4MTdxZXp5cHliUmh0ZUJRd9IBgwJBVV95cUxPdTQ5dnJMQU9rbVpsbHBmZldsTzlQckw3ZmJ4TndwV2xQU2oxemVjYXFTdFBmX3dqMENhMlJXTVdZbXBjRE5PSm1QVzZVRTJYaXJ4aVZnR2RudjhsRWFUNnZqVEFpSWVRVnluTVc4aGNPTkgyaVJFSlljZWIyVlc2Qk1ZeDlFb2RzaDJlTVdlWEQ3NzdTNzVqWWdMWV96QmREOFhCNTVnN1o5cmxCWFBrSnNhU25MbW13MUNzNG5OeDFpeDJHLThuYThRQU9JUG0ySGt4eHN1bFJtM09YaHo3MU93ZUVfR1k2WHhBdlA2eEJTRjhRR0FJMm9nVG4zQXBBTzdN?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "08b4f50b16",
+   "date": "2026-10-17",
+   "title": "Indian Bank Sees Profitability Impact From RBI’s New Forex Risk Reserve Requirement",
+   "summary": "Indian Bank Sees Profitability Impact From RBI’s New Forex Risk Reserve Requirement India Business Trade",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdjBSQkYxdzJQOHNqbWZEOTM2Z3dQXzJ4ekJWSjVHQmhUcGthZFNxVUVQMW54dWFKMzhMS3RHS2ZreUgwYWRONlNyMEJhV3hzTHRwYkFuaDRPT3hRbTlFd3VnTl9nN0kzRmpjZ09GQmlsUHFXUlRKcEtrcnhOR3ZBbkNCbTVhcGlCNlpyVWNzemNDSHVjb1FCVXBIb1h0YzdIMUNzZW0xdlZGZ0M0aEZldkNPUHRhRU0?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "734a22c4a2",
+   "date": "2026-10-17",
+   "title": "Isro completes Gaganyaan module separation tests for 2026 mission",
+   "summary": "Isro completes Gaganyaan module separation tests for 2026 mission The News Mill",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2luZGVjZFBrV0NVbHplQTlTaEZfdTlQZmRJWGg1WnJUYkRITzlXLXFYZ0MxN0RrRm9nRzBTRjFpWGxrSGpDSkdqY1ZpUjJnMm4ySUs1YmNKelMtbDY0MWFsU0piUjJwbEpIVXo1UEczY3pia2IyS1YzcjRldVpXQUZ3akNrUkJHNzdlQzNVaUNyYXpFalFLLTBQclU5TGs?oc=5",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "c3738fcb16",
+   "date": "2026-10-17",
+   "title": "ISRO Gaganyaan Mission Update | Module Separation Test Success at VSSC",
+   "summary": "ISRO Gaganyaan Mission Update | Module Separation Test Success at VSSC Bhaskar English",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWUhLTHdDWE5KX0w4UG9HOEdxbDhZYjhPTWRpclNTRlZoRXhCV3hWOERQdnRvcnpLaG0zd090cThidURtUjdHSy1uRFVXdmoxT2EzRUF4UmxrTEJ6enlzNldoZUNNajd4TFZRaFcycVhKNlE1aEhCTXFkcnd6a1hmTzdhNE9HQUphbVFKdTN6eUdOZTYtXzNSYlpOc3Bwbkk3OHBmQUFaTjdlTHMyUENYTHpxM05tendWcU5NNkRiTTBBelc3QU5HNUVpVQ?oc=5",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "0fdeda90da",
+   "date": "2026-10-17",
+   "title": "National Medical Commission asks medical colleges to set up patient safety committees",
+   "summary": "The proposed committee is to be chaired by the director, head of the institution or medical superintendent, with representation from relevant specialties and patient safety domains; the Commission notes that the move places responsibility on medical institu…",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/nmc-asks-medical-colleges-to-set-up-patient-safety-committees/article71592835.ece",
+   "category": "Schemes & Initiatives"
+  },
+  {
+   "id": "ca88aa9c99",
+   "date": "2026-10-17",
+   "title": "L.K. Advani hospitalised after chest infection, condition stable",
+   "summary": "As per reports, the 98-year-old BJP leader is undergoing treatment at Apollo Hospital in New Delhi",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/lk-advani-health-updates-oct-16-2026/article71594161.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "65fd7c65fe",
+   "date": "2026-10-17",
+   "title": "Keralam Cabinet clears Bill to guarantee rights for senior citizens",
+   "summary": "The Bill contains provisions to assist the elderly in an era of demographic changes, says CHief Minister V.D. Satheesan.",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/kerala/keralam-cabinet-clears-bill-for-elderly-citizens/article71564648.ece",
+   "category": "Polity & Governance"
+  },
+  {
+   "id": "b1ce0163ef",
+   "date": "2026-10-17",
+   "title": "Venezuela’s Maduro charged in U.S. with ordering torture of opponents, Americans",
+   "summary": "Separately, U.S. District Judge Alvin Hellerstein, who is overseeing the case, ⁠denied a request by Ms. Flores to be released from jail due to health concerns ahead of a trial scheduled for next year",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/venezuelas-maduro-charged-in-us-with-ordering-torture-of-opponents-americans/article71561348.ece",
+   "category": "Health"
+  },
+  {
    "id": "839c09ca67",
    "date": "2026-10-16",
    "title": "India can cut steel emissions before new coal plants lock them in",
@@ -143,6 +287,132 @@
    "summary": "Ms. Sreelekha reportedly mentioned in her ward’s WhatsApp group that she had informed the Mayor through a letter about resigning as a councillor for personal reasons. On Sunday, BJP leaders say she will continue in her position and that she is in hospital",
    "source": "The Hindu · National",
    "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporations-bjp-councillor-r-sreelekha-does-a-u-turn-after-resignation-bid/article71544298.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "e880e515ec",
+   "date": "2026-10-16",
+   "title": "World Bank ups India's GDP growth projection to 7.1% for FY27",
+   "summary": "“India's exports have performed better than expected and are likely to provide the main upside to the FY27 growth outlook relative to the April forecasts,” World Bank said in a report",
+   "source": "The Hindu · Economy",
+   "url": "https://www.thehindu.com/business/Economy/world-bank-ups-indias-gdp-growth-projection-to-71-for-fy27/article71552011.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "2c63b024b6",
+   "date": "2026-10-16",
+   "title": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
+   "summary": "",
+   "source": "The Hindu · Science",
+   "url": "https://www.thehindu.com/sci-tech/science/gaganyaan-isro-completes-key-test-ahead-of-first-uncrewed-mission/article71592436.ece",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "b703311208",
+   "date": "2026-10-16",
+   "title": "Bengaluru scientists decode solar eruptions using Aditya-L1 and Proba-3 satellites",
+   "summary": "The coronagraph onboard Aditya-L1 (VELC) and Proba-3 (ASPIICS) conducted joint observations of almost the same part of the solar corona in two different types of observations (spectroscopic from VELC and imaging from ASPIICS)",
+   "source": "The Hindu · Science",
+   "url": "https://www.thehindu.com/sci-tech/bengaluru-scientists-decode-solar-eruptions-using-aditya-l1-and-proba-3-satellites/article71591287.ece",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "d68e7e2ac1",
+   "date": "2026-10-16",
+   "title": "What changes under India’s proposed BS-VII vehicle emission rules | Explained",
+   "summary": "The draft standards propose on-road emissions testing and new checks on pollution from brakes and tyres, with cars first in line for a phased rollout from April 2029",
+   "source": "The Hindu · Economy",
+   "url": "https://www.thehindu.com/news/national/what-changes-under-indias-proposed-bs-vii-vehicle-emission-rules-explained/article71591595.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "d2da42ddfe",
+   "date": "2026-10-16",
+   "title": "Non-tariff barriers are biggest hurdle in India-China trade, says Nirmala Sitharaman",
+   "summary": "India-U.S. trade agreement would be concluded at the earliest, in the interest of global trade and bilateral economic ties between the two countries, says the Union Finance Minister",
+   "source": "The Hindu · Economy",
+   "url": "https://www.thehindu.com/business/Economy/non-tariff-barriers-are-biggest-hurdle-in-india-china-trade-says-nirmala-sitharaman/article71591327.ece",
+   "category": "International Relations"
+  },
+  {
+   "id": "beb4dd9759",
+   "date": "2026-10-16",
+   "title": "UN chief says ‘subsidising fossil fuels is subsidising suicide’",
+   "summary": "The United Nations says that for every dollar invested in protecting or restoring nature, about $30 still goes into activities that degrade it.",
+   "source": "The Hindu · Environment",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-chief-says-subsidising-fossil-fuels-is-subsidising-suicide/article71591488.ece",
+   "category": "International Relations"
+  },
+  {
+   "id": "aa9758a6d0",
+   "date": "2026-10-16",
+   "title": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme",
+   "summary": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme ISRO",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTlRKYUU1RkpfU3REbTIxQ3pMMDFhRV9aTFh6a19nZF94LUlSSXU2eXRVYWt0QVFqeV84TWdVcUlwWnMxQ1pISXNGS0ZQa202WGhGNzhIYlhDNVgzV2M5VFJrZHRoNmJzUUZ0YUdCVm4xMGNHOTN6aWxGd1c?oc=5",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "f0647bd28c",
+   "date": "2026-10-16",
+   "title": "Italian Supreme Court reinforces treaty relief for foreign dividend taxation",
+   "summary": "Italian Supreme Court reinforces treaty relief for foreign dividend taxation International Tax Review",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV2xfQk1McEo1SE9QSXJ4c2JzWTM4aS1GemxFeXVrbGR3Y3dpVG1HV1RiNGFaTnBvZlRTN1Zabkd6MmhRT2JwVmoxN0VOempoQnRmbXo4N0l0dW1FVmJNMFlZWGlsWm5ibXg2Q01IOTRFbklrbnZFSmpLdno3Zm50TFVPU21uU09qVDFwYlg1Qlpaa2hBYWE4Y1ZzbTZEVVo4N2hmemJuUElaSnJDYkw0Y3E4QmlpMVVqam9yX2xMLVZsOXU5cVpLdzNiNXpULXBCcjVsTzNFd3B6ZnZLYTFxTUExSFhsVjdQNGNZ?oc=5",
+   "category": "Polity & Governance"
+  },
+  {
+   "id": "a41e4a45c6",
+   "date": "2026-10-16",
+   "title": "RBI okays Scheme of Amalgamation of Indian branches of Emirates NBD with RBL Bank",
+   "summary": "RBI okays Scheme of Amalgamation of Indian branches of Emirates NBD with RBL Bank BusinessLine",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMy1RdlVTMXJ2eTNEOFRBT1hKZXUwUVdhODJOb3huS1AtSnhFSV9fcDRsRmpkbU03ZlZOY3p4MHJ1d3NNTUl1YlZ3Z055V2RlS0E0c09tLVdRSXRZSGI3MzVuWkFOVVNCNnVXeG9SVTVMZ0tsZHRTd2FsTEl3ajlEWEdleXliZExjcDJxTF9WY3B4Nkp1cW5CVkJZVllCQzc2NWlxMk5LcW4xdUJwTjRvTExvWGtOSlRya2t3TWtSUnFxdzA5dVdBbnJuOHpzbTBzbUJ4U3Z1emQ4bmY2dzhZd291MDFuSGdPa3hkMtIB8wFBVV95cUxORlZlTGFWTE56bWFJTGVjNkxCQmtNSy1nZ0xtYTFmSElXR3J4UWROb2VNNDB6UHhZQVRpQ1BxNzVxamFPdXEwTnBZQWNzSzE2eWdWV09RYXFNQXZOdG5IRVZJMUt1bU5XLVpjSzBXZ0xwUURsMlR0Y0FmOE5RMXROU3lVOWxVSm1Iei1BTkk4bkdjUU42X2dTLWRpOXNTU1lySGthd3hVWmVKZllhWEtaZGhPa3dPeXpPOEZaNkctQmhBTWNIeGtibzJ0TDhFOWtRUXhqM1Y2TzAyX3NDbHNvMGhDY2hyZGFncDV2SkljcEd1ZmM?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "481b39c9ca",
+   "date": "2026-10-16",
+   "title": "Menstrual hygiene a fundamental right: Supreme Court warns states of contempt",
+   "summary": "Menstrual hygiene a fundamental right: Supreme Court warns states of contempt The Economic Times",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSkRHbWVBd0dyY0Z2LUZBZmZOLW1qbUluZnZxT0xCamZuWUJTZFRSd0lYSkVaTnFmR0toVVRRdXM2Tkg1U3JFNG9Md21RTXlRLUdiOHVma0l6ek1sSGNxbTM3WnVSTDczU3Nabk9JczFHbmZJMllwUkdIdEUwaVpDckdNUDMxdWxmN192cE9aNm0tckdrLWtRbTVkUTZzR3F3b3hNTEdYbklZUHFEcnhKc1gyTXBOYXN4NUN2djhhYWtmTEQydkpCM0pZNUhTbUV2M1dDTl9aQ3kxRHNzUlpaMk5ZZmXSAd4BQVVfeXFMT3JQdEVSWGdwellLSFRidmMzdXZzREFrNExTeWFLRDlSWERwTW15Z3BTREJEbF9jVjJPYUhJRW5qWGNjQTUyd0MwMTV1c3RSNFRUNXpncEk1U1VPejd0dFFKX1ZlSldFaEhPSDRBSFk3WEVLU2VKQ3VmWndYOUw2NGVNOWpMbERQaTlLRXFIdGpnbVFKN0pWejJyaTRfdXVfbGtWLWI4WGtsUlYycVN2d2hDM1puazBrcEE3TzZ2aWRabDNwZ0J6b1RESFg0MmZDb1I5X2ZpQUhTdmhGMEVB?oc=5",
+   "category": "Polity & Governance"
+  },
+  {
+   "id": "3f24849bef",
+   "date": "2026-10-16",
+   "title": "New study finds Kailadevi Wildlife Sanctuary as a key stronghold for tiger recovery and wildlif",
+   "summary": "New study finds Kailadevi Wildlife Sanctuary as a key stronghold for tiger recovery and wildlif WWF India",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3lDcmZ6MXZRYjBJYzFqMTk5SU96cHU4bHYwQ1lfRzE2NUpPNXF1WkFFTExnSmZWM3JtblpkNGJGSUxpNUxZQ2tYUEp6Mmp5cTZ1dWgzQjRUVlFjWFdQcHB4dVBqMVM5dTdScGZiazVGYVp1OTVzY2JTLUxzSVJ2cTdyVjQwYXZVdm9zOWxoR090M0JlaU5HaXNuN09SaTFwVHk4TlIxVWVWblJ5QWZtdnM4ZHpuQQ?oc=5",
+   "category": "Environment"
+  },
+  {
+   "id": "0f4a344f69",
+   "date": "2026-10-16",
+   "title": "When India's rivers link, species follow, and biodiversity may take a new turn",
+   "summary": "When India's rivers link, species follow, and biodiversity may take a new turn India Water Portal",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnJEcE9xZHhPX0JULUJKRkx5SXhxay11azF0R19LWVJVM0E0SjJOdk90Vmx2aDdvV1Via0tmNFAtTWxTeXhvTllMUW5ROUpPclBYYWtWT1Vid3pxbzROOE9ZeFdGQ0VPX1pCekxKMWVTTlBHZ3JJbU9wdS1qMXJ0cWsyTlJKWDAwZXRld2tFR252bXh5eE1tNnVyU1V0bXFRRjJvOUV0S0dVUzBDMS1mMVlCaVZ5Si1qVXM1MjdYSEZha1VqektEQ1BB0gHKAUFVX3lxTE1KckRwT3FkeE9fQlQtQkpGTHlJeHFrLXVrMXRHX0tZUlUzQTRKMk52T3RWbHZoN29XVWJrS2Y0UC1NbFN5eG9OWUxRblE5Sk9yUFhha1ZPVWJ3enFvNE44T1l4V0ZDRU9fWkJ6TEoxZVNOUEdnckltT3B1LWoxcnRxazJOUkpYMDBldGV3a0VHbnZteHl4TW02dXJTVXRtcVFGMm85RXRLR1VTMEMxLWYxWUJpVnlKLWpVczUyN1hIRmFrVWp6S0RDUEE?oc=5",
+   "category": "Environment"
+  },
+  {
+   "id": "f1f2e3d3ef",
+   "date": "2026-10-16",
+   "title": "Google says AI can help Indian farmers deal with climate change better",
+   "summary": "Google says AI can help Indian farmers deal with climate change better India Today",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3I4a0h6eXhaWHJ6Rlc5cTFVTzZ0LV9WWGJpRC1DcE5JQnYwWjZtYkIwTC04aW1sNTdNMGF6VHYzSm4tZDlGeGRoVjY3TXBlSVc0bXNJRTJ0WUFYWnUwRU92cUhqR2d5bWFjZ1FoMVo3NVZLSWU1OXIwbFVZYnZ5MkJlUmpTcG5nMjBMQi1SUjBzNGs2Z0F1dEVjZkVFRWZ6UWQ5UFZqRkM5aVlKeGlIUGxIVXFHZzRlU0NHdEFLeDBQZG5MVVItSkpsWjh2TDRkbkw3ZXY3YXLSAdgBQVVfeXFMTzNyOGtIenl4WlhyekZXOXExVU82dC1fVlhiaUQtQ3BOSUJ2MFo2bWJCMEwtOGltbDU3TTBhelR2M0puLWQ5RnhkaFY2N01wZUlXNG1zSUUydFlBWFp1MEVPdnFIakdneW1hY2dRaDFaNzVWS0llNTlyMGxVWWJ2eTJCZVJqU3BuZzIwTEItUlIwczRrNmdBdXRFY2ZFRUVmelFkOVBWakZDOWlZSnhpSFBsSFVxR2c0ZVNDR3RBS3gwUGRuTFVSLUpKbFo4dkw0ZG5MN2V2N2Fy?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "da69beaab1",
+   "date": "2026-10-16",
+   "title": "Zimbabwe, India discuss agriculture, climate-resilient farming",
+   "summary": "Zimbabwe, India discuss agriculture, climate-resilient farming Herald.co.zw",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzdUcG5Db0ZNOVV0ZGw1Z3BpenBQQi15RlBJTWNZc1VZTFFlMEZQbE1QOFFkc2lRaUI4X01PeEF0TU9vVFpFR3pRZ1Y4UW1RYlR1Zmx5dEY3SmFzV1RuSUtScFYzVEJ4NVM2eUxuSTlReXNVQ2NzOUZ0eWdGNGNoTHViZ3VQakRuNjRHeFV5cS1BYkVlcDM0?oc=5",
    "category": "Economy"
   },
   {
