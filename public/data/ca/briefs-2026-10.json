@@ -2,6 +2,105 @@
  "month": "2026-10",
  "briefs": [
   {
+   "id": "689c2d2aee",
+   "date": "2026-10-21",
+   "title": "T.N. Health Minister directs officials to ensure hospital preparedness, uninterrupted health services during monsoon",
+   "summary": "The Minister says that all districts are instructed to take up precautionary measures to achieve three objectives of preventing the spread of diseases during the monsoon, preventing deaths and ensuring uninterrupted medical services",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/cities/chennai/health-minister-directs-officials-to-ensure-hospital-preparedness-uninterrupted-health-services-during-monsoon/article71605153.ece",
+   "category": "Health"
+  },
+  {
+   "id": "150060aba0",
+   "date": "2026-10-21",
+   "title": "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
+   "summary": "The Ministry of External Affairs (MEA) said both sides welcomed the progress made in negotiations on the India-U.S. Bilateral Trade Agreement and reaffirmed their commitment to working towards its early conclusion",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
+   "category": "International Relations"
+  },
+  {
+   "id": "1a2080c96f",
+   "date": "2026-10-21",
+   "title": "On paddy field conservation in Keralam",
+   "summary": "Neglecting paddy fields as a socio-ecological system that regulates local biodiversity, the hydrological cycle, and microclimate constitutes a grave failure, amid rising food insecurity and floods",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/opinion/op-ed/on-paddy-field-conservation-in-keralam/article71605301.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "f3bd428389",
+   "date": "2026-10-21",
+   "title": "Bajaj Finance to launch new term-loan variants from Nov 1 as RBI weighs revolving credit ban",
+   "summary": "Bajaj Finance to launch new term-loan variants from Nov 1 as RBI weighs revolving credit ban bfsi.economictimes.indiatimes.com",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeVdJcTkzaFMxaU1ka0ttZ3RoUnlHNk5Xenl3YkZTTTM5QjhOUkEwbi1saUlBcGwyWVRBYmNuTTVQd2ZOZnpPSUNwRmF1RGhVbDRUQi12cWRHeXpWY0wwTHF4VmhGLVozdU5qZE13cmlwVzRsM3ctYW00M1M3cVB6a2xQMTB6RGhCX3ZwazdWaC1UOXhacGxOd1BvTjRjRlJEX0d0eWlkZnNRbThyaVhRYklVM1F0QVVIY2hfbFgzWHZwbmJvYTdNank2eURNOWpSQ25PZ0lOelhRUGpDanFSOUxjbzVrQjBj0gHuAUFVX3lxTE8xQTJWNm9TQjA1X1p6clZGZkNsSE40M3pyRDhlN25Kdmo3VHlfNmp5QlRvakRHRWRTOHl1LXFOMl82U1FTMGRYSGNSLVB1bWRuMFNaZndkSk5PVWFZTkNpLW9rNzlOejdtalFVRE5YcmNsRVJxWmV4YkJ0UVdFSEg0eXZRU0dJSldYQkNvc0ZuTGxGODhxd2k0clZqektqZTV3NkwwNEE3b2FaNVI4NWwyanQ3UWxKaVpGQUpjSU9LUUhRdFFyWkhlcnh1SUxIdFowV0FVQ01iOEZOYU9SaTlvZ0hFMXZVNENhN1dIOGc?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "08bb2ccf91",
+   "date": "2026-10-21",
+   "title": "RBI's money market operations report showed a net liquidity withdrawal of Rs 1.15 lakh crore on October 19",
+   "summary": "RBI's money market operations report showed a net liquidity withdrawal of Rs 1.15 lakh crore on October 19 Traders Union",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMDQwYm5Ed3ppZnhJWm1aYWxIS2VPa0hxWjRWUmxaczkxWnByamIzUi1JTHYtSm0zenVOV0lUMGU4QmFIRzk1eExhbmc4MUFLbFVzQ2hrdjJiRU92QWx4ZmtMbVRpT2JYdlU0d1ZtYlA3c2s2Wi1jNXp3WjZET3ZXWWoyYTJSbWhDSExfYzRucWREcU0yQWdrdV8xQQ?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "b7aadc984e",
+   "date": "2026-10-21",
+   "title": "30-foot-high cockroach effigy triggers AAP-BJP war of words",
+   "summary": "“Deliberate alteration of Sanatan customs and hurting of religious sentiments: The festival of Dussehra, or Vijayadashami, is a highly sacred event governed by ancient Hindu rituals, scriptures and longstanding traditions",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/cities/Delhi/30-foot-high-cockroach-effigy-triggers-aap-bjp-war-of-words/article71605225.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "c222a00c86",
+   "date": "2026-10-21",
+   "title": "India, U.S. trade deal to be much different: Donald Trump",
+   "summary": "Speaking to reporters at the Oval Office on Tuesday (October 20, 2026), Mr. Trump said India and the U.S. were pretty close to making a trade deal",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "3543aee453",
+   "date": "2026-10-21",
+   "title": "T.N. government should construct new Secretariat complex outside Chennai, says Anbumani",
+   "summary": "He wants the State government to clarify whether the media reports about constructing the Secretariat at Pallavan Illam are true",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-should-construct-new-secretariat-complex-outside-chennai-says-anbumani/article71604935.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "58ef0f94a1",
+   "date": "2026-10-21",
+   "title": "Uddhav Thackeray backs youth agitation over voter deletions, slams police crackdown at Dussehra rally",
+   "summary": "Thackeray warned that the government was underestimating the anger of the younger generation, arguing that their grievances reflected years of accumulated frustration over economic hardship and government policies",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "cab51f24fd",
+   "date": "2026-10-21",
+   "title": "Thermal power plants must undergo annual fly ash audits, CPCB submits before NGT",
+   "summary": "The submission followed an NGT order on a petition filed by the Tamil Nadu Fly Ash Brick and Blocks Manufacturers Association, which had sought clarity on the CPCB’s role in conducting regular audits of fly ash generated by thermal power plants",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/thermal-power-plants-must-undergo-annual-fly-ash-audits-cpcb-submits-before-ngt/article71604788.ece",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "f52f22b9fc",
+   "date": "2026-10-21",
+   "title": "Musk ordered reduction in Starshield services for Ukraine: report",
+   "summary": "Kyiv last week reported restrictions to the service, which it sees as crucial to fending off Moscow's invasion, shortly after Trump criticised Ukraine and urged it to stop targeting Russian oil refineries.",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/musk-ordered-reduced-starshield-services-for-ukraine/article71606038.ece",
+   "category": "Economy"
+  },
+  {
    "id": "7e04d773ca",
    "date": "2026-10-20",
    "title": "Saudi envoy meets Pakistan Army chief, discusses regional security dynamics",
@@ -126,6 +225,168 @@
    "source": "The Hindu · International",
    "url": "https://www.thehindu.com/news/international/west-bank-on-verge-of-explosion-senior-palestinian-official/article71603078.ece",
    "category": "Economy"
+  },
+  {
+   "id": "6abfc33438",
+   "date": "2026-10-20",
+   "title": "UNDP and Ministry of Health and Medical Industry of Turkmenistan launch digital literacy training to support digital initiatives in healthcare",
+   "summary": "UNDP and Ministry of Health and Medical Industry of Turkmenistan launch digital literacy training to support digital initiatives in healthcare United Nations Development Programme",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaVNselhFR2lyS29xcjNHNWRBaTgxZHkyU1hXX2VLYXZ5Q195d01sc3dMbks2UzF0Yll0SXlRQmxxUUFJLVZ6ci1SMENZWmtuYTY4MGJMV3ZYNUxTNTB3MHpwemlZSXFGUG0tZlBIN2pMLUhsWGRVNzRGTndPZDRTMlVfLV9idE85bFpXVFZiNzBBa0wzVUpfUmo3OXhtdmp0ZlhqaTF5cFZBMThzLUFaaDJBeU5lbnRZVEZwWmoybXFWZFVYNzJNU2dLS3NxTlUxOThmSkRpUGFYM1Q0RjVVQzJ2d01xaVYyRUp5NG9pRFVCdE5IalpwczFGVV8?oc=5",
+   "category": "Schemes & Initiatives"
+  },
+  {
+   "id": "a0d1109182",
+   "date": "2026-10-20",
+   "title": "On ECINet platform, access for States can be switched off and on centrally: report",
+   "summary": "The report assumes significance in view of objections raised by Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi over the centralisation of ECINet and the electoral roll database",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/on-ecinet-platform-access-for-states-can-be-switched-off-and-on-centrally-report/article71605004.ece",
+   "category": "Polity & Governance"
+  },
+  {
+   "id": "6c4d57ddbb",
+   "date": "2026-10-20",
+   "title": "At SCO meet, Rajnath calls for dismantling the entire ecosystem of terrorism",
+   "summary": "There is no place for those who finance, support, or provide safe havens to terrorists, says Defence Minister; India supports adoption of action plan for trade and economic cooperation among SCO members",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "d4b8b0c593",
+   "date": "2026-10-20",
+   "title": "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
+   "summary": "these images are expected to provide information on the propagation of the coronal mass ejections along the Sun-Earth direction, which were unavailable till date",
+   "source": "The Hindu · Science",
+   "url": "https://www.thehindu.com/sci-tech/science/indias-first-solar-mission-aditya-l1-generates-doppler-velocity-images-of-the-solar-corona/article71603276.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "9251f7fb87",
+   "date": "2026-10-20",
+   "title": "Hawaii Supreme Court Justice Todd Eddins on the Importance of State Constitutions",
+   "summary": "Hawaii Supreme Court Justice Todd Eddins on the Importance of State Constitutions State Court Report",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdElhdTZ0c2JkQnZMU2ZvU084Z2V1bXprbGh5a1AzdGl0dG9XSkdNV2UxVFZpV1JZTFRHSkxHMENraUphU01fbXB4dEk5c05BRDcyTGJQR09rWUtoaEFtbng0aDhKNWc1dVk4LUx0UzBaaWF4MjJRTTVjdS1qZVNQNHJWbG1CWU9VX1NkdnFhMnQwamlHZWVYSmFPeDRXNTFNVzlGdjJHNjRYdE1MN25MQU5iUnlrb0s2eFN3QThrVms5SWlB?oc=5",
+   "category": "Polity & Governance"
+  },
+  {
+   "id": "cc84f0d85f",
+   "date": "2026-10-20",
+   "title": "Chinese Navy says U.S. ship near Sabina Shoal jeopardised maritime security",
+   "summary": "China and the ‌Philippines, which shares a mutual defence treaty with the U.S., both contest sovereignty over ‌Sabina Shoal and the ​entire Spratly Islands archipelago",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/chinese-navy-says-us-ship-near-sabina-shoal-jeopardised-maritime-security/article71603400.ece",
+   "category": "Defence & Security"
+  },
+  {
+   "id": "c5a0f2b498",
+   "date": "2026-10-20",
+   "title": "Allahabad High Court asks Centre, RBI to frame guidelines to deal with bank accounts of persons in coma",
+   "summary": "Allahabad High Court asks Centre, RBI to frame guidelines to deal with bank accounts of persons in coma Bar and Bench",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT3c3TC1XUm1lVEpaWVU5QWxpVklwblFwSDRwaHZ6S3RrTkwzSnNqV2JWRWdNMl9SRXBkUldicHQ3UkhFckFCbGI4ZTdCUFI2QVh2VnVQYmJPYUlNNm0xMzVrOVhwdkRXRm1xLUN1TEk4S3NmenZ3UUhUcE1hYm1SVXRSQ1FkZkV4MGJIenI0ZTFyNF85bjVDV2l6WEpxbjdibnBYb2p3NWpCTjlneFVwQU05LS1sSll1UF9YcnAyOEtFWEhjOC13NzRuUWN5WWNP0gHeAUFVX3lxTE1VbWJOTjlCeVQxT2pxOEJZWEZOSkl2Q1ZmaW9LWW5hWDJFazdGc0gxLXl4M1pqNzNpQ2dlLVEzMVZEZlhyQ1FCWEVraDEyVEhsZmo1NXRmVXVGa3dGd0tRWW85aEJBSnI2ZU1rSS1JWE5Cek5xOWl6MExBUlltVTk0ZU1jaGRLdmFqWTZzNzZvV21tSUtlWEZKR2ZvOTNlNHF0VUJhT2ZaT3ZUTnRIQ25Za1VmV2tuMl9vZHl6S2ZwemNTblZYZGpuXzFRdEpSMHJOOE1xbWhJMnF3RnJnZw?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "ed3177c414",
+   "date": "2026-10-20",
+   "title": "ISRO Clears Gaganyaan Crew Module Separation: Scripting milestone in the next-gen space ambitions of India",
+   "summary": "ISRO Clears Gaganyaan Crew Module Separation: Scripting milestone in the next-gen space ambitions of India Organiser",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV0xkNmN2eF82ZHFZZ0ltOHhUZVcxdkk3NTA5OTltbXVDSGttZ01CbVBEd1NvVXZiRFRTa0NjWkdjcmNUREd1M1NBb0cwUHNTU2VvRXotZTNPYUNScFNWUU14cTFGUEQyRUFFWjFzdUh5YUdtRDFSdTd1UWM1OUhGN1kyeDFEaDhTTHVFRzNMcDRWREdFOXRiamh2Q2ZuNE1vWXhBY1BiX0M1Ymx0MktGQTRMbGtXWU00WWptdkZaRDNkWHF6MU8wMy13bDQzbndGR3Y0eHdreEpVSmdwZEwzNFFvOXJXUVRT0gHuAUFVX3lxTFBLd3ZXVXlGVHVaMTg3MzIxX3VJbFVjSTdGV0NMS3RDYkEwM05kaGtjcHdhcG9UMzJ0VG5tV0JnVDFKQUpDeV9aWFcyN0J4bEZxYzIxVzAtZ1kzY1dOd3pab3M0NlZiLTNzdjRvdkFNUlFmUEI1eXh6amtRYVNRWVJSUS1tS3Q2bG1tSWdILXVPYXJmN3duTkpXeDE0ZFFSSGtLNmlBN3lfSlF0Qkl5SG80OThXT09JbGpQYWFidW1XQk1vWl9ZYTc2ZHhKNm1WMlhNSlZ4Ul9ucGFaT0c1LVo5TV85OGh6TlpuaFQ1X3c?oc=5",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "1f550f798b",
+   "date": "2026-10-20",
+   "title": "How Can Dependants Access Bank Savings Of Coma Patients? Allahabad High Court Seeks Centre, RBI Response...",
+   "summary": "How Can Dependants Access Bank Savings Of Coma Patients? Allahabad High Court Seeks Centre, RBI Response... Live Law",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUNqVE1xekZLZkM3dUE5NzB3TndkWEFCcS1TQkdLNVYzOWVRcGw4VFhtMFpFdzFJQjJ6UUFCYTk5MmZvYWZ5bXNyb3ZkYlpJUlkweHg1a2tDdElnaGlrd1ltX2dvMC0xaFVpWk5aUkJ2THhrTHUxWlRlZ0tLWk15c0I0X1o4TVVBVzJuUmpnaXl0dXJaNnU4Q19kMWdxWWZOSl9yaHYtNG1vTmJ4aUdZNmh1bjJFSzDSAbwBQVVfeXFMUHA1V0NUOHFoalloYlhZVUNEenQyU1hWSUFnbVMxT2trOWZYbXdZQWMtSjRKZjdDckZrVmk3OVFQS29Pc2hHVmdPWHd6NW9BeVRlRVp0aUNvakRRMTFiZlZPQV9pem9EdnR1UnhSUEZ6eVhoT05GUlk4Z3RKekFvQXo5cTRZbElTSXdrUUhTWHNQeVlWY1FTTVhJU3lCRjQ3R0tZOEh5Wnl6RWJVWXdFV1dERl9ESmNsbUtReWs?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "3f2e22c67b",
+   "date": "2026-10-20",
+   "title": "Bird Walks, Paintings & Forest Treks: How Ziro's 1st Wildlife Festival Made Conservation Hands-On",
+   "summary": "Bird Walks, Paintings & Forest Treks: How Ziro's 1st Wildlife Festival Made Conservation Hands-On The Better India",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXZXakRRbUF1Q0U0RlAyWElSVjVvRnEtNVBubUJ0anhienZQVWlHYkpTQkxBQ2FwXzdpZXg5TC1JbERhaFhjWTBHcGhmZmtFaU9ld2ZNWmdIUEQ3eXZtd1Q3R1VJMDV4aWRkVjUwWmNxTmhIU2ZrclpwQmd3RW1keWVBY0NsXzZkXzNFcTlsSDlwcmhNdHpKMnk3VGY4cFBIT0gtMDJrS1hNcTlwZ3Y0ZXpIR2I0WVFFMG1WRV9pbEpxbWx5MXZRTG9ONNIB0AFBVV95cUxQS1RHa0tLOEtpRnk2WGVUVDZ2LVBIbkVsR0lyVmVkNF82cEMwMU5aaV8zZUZFaldZNWdUaGg3b1ktaUprT2EyT2NWQkdlVFJhMUxqYnVzSHZ4SzhIQ3FRd1pvODRwTUFadGhWUTVIeHZteElIZHJRY2JEOUNzS1p1UWlQbjk3MXVkTjQ5SkRLUGpBT0hKeDFGSklJLWZKUGVuX3k3VWhfc21DTGZoc0dxZzJxaGttZUtHeTdiaGVHOGRUNlhtalY1ZnkzUUdGbldn?oc=5",
+   "category": "Environment"
+  },
+  {
+   "id": "cfdbcc935b",
+   "date": "2026-10-20",
+   "title": "Air Chief Marshal A.P. Singh completes final IAF sortie in Hyderabad with instructor who first taught him to fly",
+   "summary": "Air Chief Marshal Singh undertook his first-ever flying sortie on January 28, 1984",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/air-chief-marshal-ap-singh-completes-final-iaf-sortie-in-hyderabad-with-instructor-who-first-taught-him-to-fly/article71604571.ece",
+   "category": "Defence & Security"
+  },
+  {
+   "id": "e849d19c21",
+   "date": "2026-10-20",
+   "title": "Police actions on protesters violate India’s core international legal obligations: UN human rights experts",
+   "summary": "‘Any restrictions on peaceful assembly must be legal, pursue a legitimate aim, and be necessary and proportionate,’ says a joint statement by a group of globally recognised rapporteurs, issued by the UN Human Rights Office of the High Commissioner",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/un-experts-urge-india-to-curb-force-against-unarmed-student-protesters/article71604310.ece",
+   "category": "International Relations"
+  },
+  {
+   "id": "8fe3ba9fe8",
+   "date": "2026-10-20",
+   "title": "Indian scientists identify Martian analogue sites",
+   "summary": "Researchers added that identifying terrestrial analogue sites has become a pressing requirement in the era of intense planetary exploration since recent studies demonstrated that orbital data alone cannot fully characterise Martian minerals.",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/sci-tech/science/indian-scientists-identify-martian-analogue-sites/article71604126.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "8269ffa996",
+   "date": "2026-10-20",
+   "title": "Defence Minister Rajnath Singh meets Iranian Vice-President, Tajikistan Prime Minister",
+   "summary": "\"Pleasure to meet H.E. Mr Mohammad Reza Aref, First Vice President of Iran on the sidelines of the SCO Heads of Government meeting in Dushanbe,\" Defence Minister Rajnath Singh said",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-meets-iranian-vice-president-tajikistan-prime-minister/article71604395.ece",
+   "category": "International Relations"
+  },
+  {
+   "id": "2448651c08",
+   "date": "2026-10-20",
+   "title": "Pakistan cuts GDP growth estimate to 3.65 per cent in fiscal year 2026",
+   "summary": "The National Accounts Committee’s downward revision, attributed to a slowdown in industry and services, places Pakistan’s per capita income at the lowest in the region",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/pakistan-cuts-gdp-growth-estimate-to-365-per-cent-in-fiscal-year-2026/article71603525.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "462d10a7e0",
+   "date": "2026-10-20",
+   "title": "Russia, Iran have ‘never’ worked so closely, says Iran’s Foreign Minister Araghchi",
+   "summary": "Araghchi hosted his Russian counterpart Sergey Lavrov in Iran on Monday (October 19, 2026), in his first visit since the outbreak of the conflict",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/russia-iran-have-never-worked-so-closely-says-irans-foreign-minister-araghchi/article71603310.ece",
+   "category": "International Relations"
+  },
+  {
+   "id": "e8fa42d4bf",
+   "date": "2026-10-20",
+   "title": "What are ‘heat storms’?",
+   "summary": "A consultation with two dozen climate researchers and an analysis of temperatures worldwide for for every hour since 1960 has yielded a new concept",
+   "source": "The Hindu · Science",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-are-heat-storms/article71604489.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "602de087d2",
+   "date": "2026-10-20",
+   "title": "Scientists unearth new instance of ‘contagious cancer’ in animals",
+   "summary": "Researchers studied melanoma in the brown bullhead catfish, a resident of Lake Memphremagog, between Quebec in Canada and Vermont in the U.S.; the finding is interesting because it could reveal clues to keeping a human’s body from rejecting a transplanted o…",
+   "source": "The Hindu · Science",
+   "url": "https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece",
+   "category": "Science & Tech"
   },
   {
    "id": "f65c174236",
@@ -468,6 +729,15 @@
    "source": "The Hindu · International",
    "url": "https://www.thehindu.com/news/international/pakistan-providing-whatever-support-needed-to-defend-saudi-arabia-army/article71603002.ece",
    "category": "Defence & Security"
+  },
+  {
+   "id": "82ccf06485",
+   "date": "2026-10-19",
+   "title": "‘Messi’s plant’: Scientists name newly discovered endangered Andean species after Argentina’s World Cup-w",
+   "summary": "‘Messi’s plant’: Scientists name newly discovered endangered Andean species after Argentina’s World Cup-w The Times of India",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPa1AxcUVaSUx4c1RVV3lSbURpTG5LMW1iMUw3UDlCXzlmZGNQbDZmU284MmotMTQ4YTZPRTFVcFJqUER5eHJCV09OM1AxZ09xd2FRaDZVd2xjajRMVV9wRXhSLTlFY2RNTGV5NDZwNDBrUEtRcDlkTFBUOXBYeEtvVGExMFZkUjVHd1d2WXhHdERQVFFWMUNTRVQ2SEdSMm1KVEdoZzJDT3pLd25IcGJiODRpRnlKdEFGZnY1WVpNaV91a1hkZkVTdTZZU1hhY01CZDBXWFJuY3JuLTJyeVd3WVN0dkdJZFlqeHNVa2JUU2Nta0VycjU2NHRlNE1MQ2dPOHhtQ29BUXZwN2pPdl9nQUt1UDE3elFxaXR5ZVZLMF9kMzZVcFkzctIBrgJBVV95cUxQTlRUMzlwZERrdWJRWmNZSkFuOTVJb2tfa3dsNHlNbkl3bkhBUTNvM0piV09pYkVTczRRVW52Z2E0Y3hHTUY3TnRSQzlRMFppUWtNd21XS1Iwbm5UbVJtZ29JckxHWm5nZXhVWEtzRFVOMUNMNGhHZDAwWTVSd29qWTltbi10ekJXMk1VMUxQN01sQlVqcHNRRmMwZHFVbmNiWms3dVE2aWk0UVVzeTgxM3pmTzNmWWhPWloxeFVGVUlSbG9UV2xJd3puaVE0VlVnNE5FLTBZb1JQNGZUaDRheWRTaXhsd3hqODNoUHVxU0lKaDZaOHZCeEI3eUV0Q0NLTE9YVHRRbnJuVnhDY0ROUFNVNWVPUzlIb3pxaV8wWDUwaDVBaVVveFV0N2JVUQ?oc=5",
+   "category": "Environment"
   },
   {
    "id": "59a8fdfab1",
