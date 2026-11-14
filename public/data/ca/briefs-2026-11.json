@@ -2,6 +2,105 @@
  "month": "2026-11",
  "briefs": [
   {
+   "id": "0b18018033",
+   "date": "2026-11-14",
+   "title": "Concern mounts over poor air quality in Kochi; Corpn. to set up monitoring stations",
+   "summary": "Experts flag vehicular emissions, open construction sites, and post-monsoon weather changes; PCB awaits govt. nod for repair and maintenance of two of its three monitoring stations, which have remained dysfunctional for over six months",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/kerala/concern-mounts-over-poor-air-quality-in-kochi-corpn-to-set-up-monitoring-stations/article71696854.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "08c9848109",
+   "date": "2026-11-14",
+   "title": "U.S. loses measles-free status after continued spread of the disease: report",
+   "summary": "The reported decision by the Americas branch of the ‌World Health Organization comes as the U.S. battles ‌the ⁠highest number of measles cases it has seen ⁠in more than three decades",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/us-loses-measles-free-status-after-continued-spread-of-the-disease-report/article71700760.ece",
+   "category": "Health"
+  },
+  {
+   "id": "64a9ec44d0",
+   "date": "2026-11-14",
+   "title": "Kurumba: a language and community fighting for visibility",
+   "summary": "The Kurumbas of Keralam are an Adivasi community with a population of only 2,719 as of 2024, who speak Kurumba, an oral language without a script; with the Census classifying languages with fewer than 10,000 speakers as ‘others’, the future of the language…",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/kerala/kurumba-a-language-and-community-fighting-for-visibility/article71695235.ece",
+   "category": "Polity & Governance"
+  },
+  {
+   "id": "e09b48e7a5",
+   "date": "2026-11-14",
+   "title": "Himachal’s ₹1,500 allowance scheme: Who benefits and what’s the political impact? | Explained",
+   "summary": "What does the new Mukhya Mantri Apna Parivar Sukhi Parivar Yojna offer? Amid mounting debt concerns and Opposition criticism, will the government be able to ensure its smooth implementation?",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/himachals-1500-allowance-scheme-who-benefits-and-whats-the-political-impact-explained/article71700979.ece",
+   "category": "International Relations"
+  },
+  {
+   "id": "bb3af5ed15",
+   "date": "2026-11-14",
+   "title": "Chief Minister D.K. Shivakumar places Karnataka’s demands on stage with Prime Minister",
+   "summary": "Demands included a fairer financial partnership over Bengaluru’s Namma Metro, clearance for Mekedatu project, scrapping Kasturirangan Report and immediate drought relief",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-seeks-fairer-centre-state-cost-sharing-for-bengaluru-metro-faster-clearances/article71697681.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "79148a03e9",
+   "date": "2026-11-14",
+   "title": "Multi-purpose transit yard still remains paper dream in Kozhikode",
+   "summary": "The initiative was originally conceived in 2021, based on a project blueprint as part of efforts to make Kozhikode more parking-friendly. Initially planned as a joint venture between KMB and the Kozhikode Municipal Corporation, the proposal later became a K…",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/cities/kozhikode/multi-purpose-transit-yard-still-remains-paper-dreamin-kozhikode/article71700897.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "5e5cf0cb5f",
+   "date": "2026-11-14",
+   "title": "Algae-based artificial tree to help check air pollution in Guntur",
+   "summary": "In a first-of-its-kind initiative in Andhra Pradesh, ‘Algae Tree’ draws in polluted air, absorbs carbon dioxide, and releases oxygen through natural photosynthesis",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/algae-based-artificial-tree-to-help-check-air-pollution-in-guntur/article71697256.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "40f653b395",
+   "date": "2026-11-14",
+   "title": "Petition moved in Kerala High Court challenging clean chit to Chief Minister in Punarjani flood rehabilitation scheme",
+   "summary": "",
+   "source": "The Hindu · National",
+   "url": "https://www.thehindu.com/news/national/kerala/petition-moved-in-kerala-high-court-challenging-clean-chit-to-chief-minister-in-punarjani-flood-rehabilitation-scheme/article71699491.ece",
+   "category": "Polity & Governance"
+  },
+  {
+   "id": "59b8aa4d63",
+   "date": "2026-11-14",
+   "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
+   "summary": "Climate action has slipped down the political agenda for Western governments as U.S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary ‌pressures and the need to spend on security",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "3ff2b4d973",
+   "date": "2026-11-14",
+   "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
+   "summary": "Starship expected to descend from space after completing 14 orbits around Earth, setting up its debut catch landing for ​Saturday afternoon; the Super Heavy booster was diverted from its return flight path to a fixed point over the Gulf of Mexico before exp…",
+   "source": "The Hindu · Science",
+   "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "86a5e56e5b",
+   "date": "2026-11-14",
+   "title": "RBI Fines MobiKwik ₹9 Lakh Over Fraud Reporting Violations",
+   "summary": "RBI Fines MobiKwik ₹9 Lakh Over Fraud Reporting Violations The 420.in",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ua3Rsa3BPaVN5RHhVVTJ1TjV3anFCd1NkYVdOZjV0Nk9rdS03aDBKTThWbFJoMVVUUHNEbnhiXzR5aUM1dU9iYzZ0VHJ4cmYwb1JZUnFUbjVnQ1VYVmRaNGphUHlQQ2c1cl9OREVFUzQ?oc=5",
+   "category": "Economy"
+  },
+  {
    "id": "2def1854e3",
    "date": "2026-11-13",
    "title": "COP31: Himalayan flash floods should push all to act ‘faster and fairer’ on climate change: UN climate chief",
@@ -135,6 +234,150 @@
    "source": "Google News · Policy",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVA2enI4MUlpVmZwMnRMdVVaVGd3dnFQZGE1dWtFc1h4dWR6RWZ0NnYwdmdBLXZNNFg3OFBTNzdiTFJqYlI4ZC13bFpORHZyUTNWQmNjQU9wS1RxbkFnUXZlYXZQUUNMNURjazZZWk91NHk4VmJqWDVhR01leWlsRVhoYUoxY1lBRmdBbEhQWllKTkQ0Z2lhQVJsMEZYQQ?oc=5",
    "category": "Economy"
+  },
+  {
+   "id": "2044fa2830",
+   "date": "2026-11-13",
+   "title": "What are the findings of the 2024 Hindu Kush Himalayas snow update? | Explained",
+   "summary": "What does the report by the International Centre for Integrated Mountain Development highlight? How important is snow persistence? How much of a role does climate change play in river basins receiving low levels of snowmelt this year?",
+   "source": "The Hindu · Environment",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/hindu-kush-himalayas-snow-update-2024-findings/article68307604.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "97eb2f21c9",
+   "date": "2026-11-13",
+   "title": "Why climate finance remains a recurring flashpoint at UN summits",
+   "summary": "As climate negotiators meet in Türkiye, the familiar battle over climate finance exposes a deeper divide. While wealthy nations count the money they mobilise, developing countries question how much actually reaches them",
+   "source": "The Hindu · Environment",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-the-same-climate-finance-dispute-returns-at-every-un-climate-summit/article71690224.ece",
+   "category": "International Relations"
+  },
+  {
+   "id": "c29297e753",
+   "date": "2026-11-13",
+   "title": "UN nuclear watchdog urges Iran to take 'steps' towards inspections",
+   "summary": "The International Atomic Energy Agency has not had access to key nuclear facilities in Iran since Israel and the U.S. launched a 12-day conflict in June 2025 that included strikes on nuclear sites",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections/article71697585.ece",
+   "category": "Science & Tech"
+  },
+  {
+   "id": "538eb184e3",
+   "date": "2026-11-13",
+   "title": "Chinese company linked to Alice Huang obtained banned Nvidia chips: report",
+   "summary": "Alice Huang, mainly known as a former top executive at Megaspeed International, also founded Shanghai Longteng Intelligent Computing, a company based in the eastern Chinese economic hub",
+   "source": "The Hindu · International",
+   "url": "https://www.thehindu.com/news/international/chinese-company-linked-to-alice-huang-shanghai-longteng-intelligent-computing-obtained-banned-nvidia-chips/article71697606.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "ac8df06c8e",
+   "date": "2026-11-13",
+   "title": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+   "summary": "The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
+   "source": "The Hindu · Economy",
+   "url": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece",
+   "category": "Economy"
+  },
+  {
+   "id": "92956c518d",
+   "date": "2026-11-13",
+   "title": "Aaditya Thackeray calls for Climate Change Councils at Centre, State levels to tackle pollution",
+   "summary": "At the State level, he proposed similar councils chaired by the respective Chief Ministers, with participation from relevant departments to monitor the implementation of climate action plans",
+   "source": "The Hindu · Environment",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/aaditya-thackeray-calls-for-climate-change-councils-at-centre-state-levels-to-tackle-pollution/article71698204.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "dd445e5e7b",
+   "date": "2026-11-13",
+   "title": "Daily Quiz: On Climate Change summit",
+   "summary": "As the COP 31 kicked off in Turkiye on Monday (November 9, 2026), a quiz on the annual gatherings which have delivered some landmark treaties to address the climate crisis",
+   "source": "The Hindu · Environment",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/daily-quiz-on-climate-change-summit/article71696564.ece",
+   "category": "Environment"
+  },
+  {
+   "id": "ec20f03140",
+   "date": "2026-11-13",
+   "title": "YES Bank files review petition in Supreme Court over Rs 8,415 crore AT1 bond write-down",
+   "summary": "YES Bank files review petition in Supreme Court over Rs 8,415 crore AT1 bond write-down bfsi.economictimes.indiatimes.com",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX3NNVVJZdDBXWXpXS2NNX1U1el9PUU5XRnZuUmVwN0tXUjFDdDdzeVFXbWltSUYwMlh2UDFDTXZja0czdjBZOTVOUm1lOFVuUWFId2hCOXZRQjNEQjJDcWN3RVVaamhnUkJKY1NjMUVxVEYzbnZLSEx4ZlBQbUNhTlZWWldvalFaakduNWJXM3lzU1NBMjlidDlaZm1PVzl4eVlhSVF2WFJOOWRRR2s3VHpXS0RpRGg0WUN2WmNBVFRBTTBud25Kd0dXYWhVMWFpajg0YVNldEY0ZHpxcEQxatIB5gFBVV95cUxOQnpwVjN6ZFoyQU5EWFprY0NJbG0zQy1tYTl0M1RkQ0h1cjNNVEMyU0JkajFnTmtQS0x0RE82OU13VFBQTjBmZWxYZW81MzBNT21yNjVJZmZHNVZuV2FiX01hOV9qR0pxS09ZM3ZlVUFJTnVXRmltOHFHZ1lqR2stNlNSUFBDWldLUTE5UXdOQTM3Nkl2TUhDTC1BOU5LWUpacnBzTmx1TzJLdDN3Vmp1QTJnTExobTFJeVlWdjROWE50UEluUndSS3lhdU53Sjllb0k2TlZzYUVUMmxQc0Iydi1UaG82dw?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "513a981a5c",
+   "date": "2026-11-13",
+   "title": "RBI fines MobiKwik ₹9 lakh over PPI transfer and fraud reporting lapses",
+   "summary": "RBI fines MobiKwik ₹9 lakh over PPI transfer and fraud reporting lapses Business Standard",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS0RFai1yeEQ2LWJvVjEzR1U3RTNfNWY2b1lGZ2ZiQk1FUWlZTFlSdjBkZTFvMlFqUTRYLU9fZVFGZlpubERmVjRNTGJYSjNJQzR1T293VlRxMjJ0VXV5c3hVUzg2cExzYXFiaFdlN01vbkh3b2l3S3hUUW1GSHdQR0txMS04Rk1URlRFMzdRNkFQR1cxWE9Fa25mMDZfSDcyTlhXZHBvSEtvZDEyaWViWC1FSkhTUVFpdlBUeWpVbWZycDZWVjBzV01hTDI0Ui1rWlhN0gHYAUFVX3lxTFBTZkZvWDJ4Zk0xNUJZUG5PWHBESEFSQk5GeG82ekUyRFRkR19NZUotbkItSW1TbXNUWWREaHYtaTNzT3VmSzVxeVhUV1d4OHExSk1qMUtYeUM4Wm5fSkx3TTQ2aXFuNWRZbS1JODRvdTJXSXVDRldJY3ZjaGZEcDdsMUVXWEk3ZENtYVEyLW9pdUsxSWZNdTlTMG01Z2tFamo3N2lmcmhHZlNYTFpsbHoya05HVVFFaGZrdFZBSklkdVBEMVNqRGNiUHN4bVpmVjBYRGVGNVV5bQ?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "2251fb89cf",
+   "date": "2026-11-13",
+   "title": "RBI may raise repo rate to 6% by February as inflation breaches upper band",
+   "summary": "RBI may raise repo rate to 6% by February as inflation breaches upper band Business Standard",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc1VVLWQ3eHZRSEhHLURKTE51ZjJ4V2ZQV0tLdWFsU3FEMnMzTUxQZGRzUU9UVUl5ZXlZM3RFZmpVUnc5R2huZjR4eTN3RlkwdlF2QmdfcXZlekJBbTdQRlZ4YmdfRkw3NDRfbnctdF9zelR1T3VMLUVsd0ZBWXp4dE42bGtJZnF1MHFuX0RiaHZxcE8xeFJYaFI4UzhkRmIyRWRvOEVjVjFxdkZyQjl5UTBIejNmZnlRYkUtS0QyMVkxenozcDVNcVgxb2Rld9IB0wFBVV95cUxOYjMtdXNZbUVOalRLQURvM0Y4RkRLVEc0bWswMTNRQjZxaEExaTZybXBNcG8yeERfdmwwODBxRFZsb24zblNraEUtajBWV1NydXJZVFVUMGVveGZXM195TGh6akU0aTZhS2xjeUV2cUw5NDV2TXI4bXFGTlVpZTA0azVQXzRMaTB5ZGJWbEJPQ0x1ZXlRN2VkYW1jYnZMd1pFU0ZRM3hvNmpGeXBLWEtCazZwS1lGeVFjUFpWYWdwQTlLd3RGMEUzemVWUkJORDlVVjRF?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "043241e4e7",
+   "date": "2026-11-13",
+   "title": "Forest Department to implement human-wildlife conflict mitigation scheme in 11 villages in Coimbatore district",
+   "summary": "Forest Department to implement human-wildlife conflict mitigation scheme in 11 villages in Coimbatore district The Hindu",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMC10YkJQYXFUMUlXUXQ4a2tOZF9FVVcwcU5QS2UtN1RkeEd5T2tzRHp3SjR4RVpUUkVmU00yQW9MdFJLbUdrYmU0UjhrZl9xOHZPc0R0elQ5MkE2bzV0TzFLZlloZHdxN0xOMGJJVTd2aHVMVVUwTHgtNlptakZ1QmdrWm5pTHJXamUyWUFqa1NsNHR5TUlyYjFBd1lDWUJybjNoMHgzZUk1VjV0OVRtVHNuTlYtLTFVWFU4OG5VQ2czcm5QeUVtQjZ1V29rVjdEcEdBU3V2b04xOG5kdWIzNWQzTkVyRktrV0xhSFNyMXEtRkxNYjJOaXhIVWlLQ3d3UGo2ei1ERG1JUdIBkAJBVV95cUxPckhpUEk5MFRDODRCNVZ5UjdpZGVyVGtBTThJMWpnWXdnRnBpOU9iMldtRXZhNTVOM3loV2pVbWUwbFpkajIta2NqeWMwWWxyTk80WVRYUlZtY2V2aERwTU9xOTU4ci1mcWlGeEtVcWhrVW9Tc1lmUU5TTERyQ1BoUmVLRVhTTm91MEhUeHBybVJYNnVidVBVb2VPWDdrNjhuSnNxX3VyeUNUTlV6WVNGWE1WQWtkWlVjcThqWVJ4Mm44ZF9nMnBQZ1BQeHRhUndzNVN1cHlVTTJzTEx4OWZoaFNaRnRiZEVDZ253WlY0cFJyZC1INnBpemZiUXF0Q2ZERXo2R2hDNjR1VkJDVS1oNw?oc=5",
+   "category": "Environment"
+  },
+  {
+   "id": "3c1f0a55f5",
+   "date": "2026-11-13",
+   "title": "Bank credit growth tops 19% for fourth straight month-end: RBI data",
+   "summary": "Bank credit growth tops 19% for fourth straight month-end: RBI data Business Standard",
+   "source": "Google News · Policy",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGxIbXlnNjFMM0dENkVQT01XZ1BGODFSTzZQZTlWYkdwMzMzdXMtVktPWExkdmd0NkVCdGYxOHpGdEdyVGF0Q1NZZ1NWUlVTZVg4STBNQkdjU1BwdnBVYndWUFZzdFhLVHpMRFk0TjFlVjhwaTcyQWgxdzd1RXVnaGxrbXVDc0FnY0dFdHJPYzREYmRlOFFzdnR3cHUtSnhFNVZKd0tVVmx3d2pyRjhUcVI2TkZvS0kxTE5GUjNvcnhhUjhGcTFHcnVrX0F1WFdoM2fSAdcBQVVfeXFMTlEwUTVqZ1RSM3NWRmdOcDUwcU1fTnA0c0J2SV9FWk1nYzN0ajZ6a0tfVi1MdmV1MUpNTTNMSDJNaExYTS14N2dMNXFSWlViamdxc2pUVGxUalVBTWpoZmpFR2NUX2NXOThBNUJYak1OSzlpQVpFSjJWbFFpVnp6TGhadFdQOU41Z0JGcUhVODFxMTlkUVluMm1GWDFFUzlwNTlCNUZmX093a0FibVg3dF9NWFdleWhackctekRHcHlGNHRYNnZNellFS2xZaXdPZXgtTndPOUE?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "3df998c3f4",
+   "date": "2026-11-13",
+   "title": "Climate Finance for Developing Countries: The Unresolved Debate at UN Summits",
+   "summary": "Climate Finance for Developing Countries: The Unresolved Debate at UN Summits Vajiram & Ravi",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcVV2UEdUMW9aNTMtaldYalZGcE56UmFDRHo5Z2p2cVp5RUlxRXFWRDFDWlJpaFlKNng0blE0N0JLNjY5dDZfQ0szX2ZYYmxGOUlfNFNrM05pOEFNWWhKSkI4MzlOTENHcnRsMlhTNW9yWnlUcHA0S3FGY2RyMWhPRXk5cldaSzRSNG9nag?oc=5",
+   "category": "International Relations"
+  },
+  {
+   "id": "2b878cbc76",
+   "date": "2026-11-13",
+   "title": "Animal cafes and exotic pet trade bring wildlife disease risks into public spaces - news",
+   "summary": "Animal cafes and exotic pet trade bring wildlife disease risks into public spaces news - Mongabay",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmpJZ2RLemRJV19xU2h0dTB2V2FFSVExVnZCRG5IMHVPZ1ZpTmswbmxtNk9tdzBteDAtbjl4cGRpWnVMWHJPc05QSEhBVWRacWdpVU9lTS1mRGJ3eVJiZHNWUE5aenEwSU1IWm1QUmx5aHRvSHVOSEFWWkl0R3prdWhkX0NtZEo3b09QVFlySHd5S0lGZ3RLeVpqcnY5UDllSkNnNWRXZXQ3MzNZREtRbXRmN3ZEcGPSAbwBQVVfeXFMTXRET1poVzlYcUFCU05waXhoZ2JiZGxEaFRzaVgxWmpQYVczWDVYcHRfYllyR3dvN284UWFZYWZZU05meG56Y3hhbTlselBWYVk0UFBWOGNiOEZqaXBfaUFmUEhUcFJxWHRPZjVLbWplV1RpVkhwaW9KQlZEalpoaHo0SzZOMDlQSmlPb0JoV0ZRTS1pRGlSQ2RVNTMzaHNjY1dxNUJBcHVBRDBneVZ5QjVWeEhvWFh5LXlJTHQ?oc=5",
+   "category": "Environment"
+  },
+  {
+   "id": "d1958b0091",
+   "date": "2026-11-13",
+   "title": "Data Center Investors Underestimate Climate Risk, Report Says",
+   "summary": "Data Center Investors Underestimate Climate Risk, Report Says Bloomberg.com",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXZhVERBTXViVWV2MjJOVmpRY0NPX3JaYjI4N3huNHJJZC1OZWJRaDlXc0RCS09hcUtTX2VHTXVxbmZzcmEyNDVFRWJFbTN2ZnVfOXNwRHFqYmdzdGVwQUVzUWFhanF5dGw2M210dV90bFFvTXZvTVFzMW96TWxfYkFqamNUZHZXdU9JT19IeG5vck5ONjA1Q0RaazRGZHBfUzBMakRhNzBhR09GcFByQw?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "acf5a525e2",
+   "date": "2026-11-13",
+   "title": "Climate finance in focus at COP31, UN chief calls for delivery on pledges",
+   "summary": "Climate finance in focus at COP31, UN chief calls for delivery on pledges The Tribune",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWdfY29yY1RoTGFlaVJ1d1gzTXBjNkpQM1piNkVGVjRabm1pVElNS180eXdpSEU5eTZGRlVVeE1CUkQ1aVNaY1JkMmgxdUZwRmhxMUxtajlXcFBhQUJVZXZYYWFLSWlhZ2ZFRG5CMzJOYmEyY0FjVVdKV29MQkZwQmcwZVBXeFk0WXJ3dDhlMVBlX3FFcHFMQ1JrMXJNdjhvajBoVlNhWlh6Wk1hRlJUeGIwb9IBtwFBVV95cUxNNXpWN3VYb2hiaVJsb2NrVy0tUXBna3VoNGRfWHFFVUg3dEpOeFlGdUVaSGZuS3ZaNFFlQzdXbExTZW5HUHJOcFpGTHp5Vk9TWVd0UkdzdGtoSFNRSUdXS0E5MEQ4TkktQVBtYWpwblFCdkt1M1pXWVNWMEMxQUhLejRJQTFSMlhqejVVREpyaUtaOGI3NzBkc3ZiRWxEdDZ3SkNzbGFyd3FRMklqOTgtbFBPODBBbmc?oc=5",
+   "category": "Environment"
   },
   {
    "id": "53d707babc",
@@ -378,6 +621,33 @@
    "source": "Google News · Policy",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc282akltME5ndmRyUVh0SGRON2tCZ2huMkFhWTVjZm1mU0NuY05La0xBWF9HSkltYm0zQWE4bWh3TkdISmJ4MXpUMk9uSTJEaERPUDg2NXNLZ0M5ZlRhY0tBaXhNblpvVU1UdG1BZGtVU0RiVEJ1RFRRemxsNmtLazNOSVlIM1VrTDRDZ1cxZzk1SEI4VWh5VFVhc19WaU52UmJWMQ?oc=5",
    "category": "Polity & Governance"
+  },
+  {
+   "id": "62596031cb",
+   "date": "2026-11-12",
+   "title": "Antalya summit opens with finance row exposing fault lines in climate talks",
+   "summary": "Antalya summit opens with finance row exposing fault lines in climate talks climate.economictimes.indiatimes.com",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOElwTFBCS0ZvdXFsdFB1LWVXbGZOZy01NE9HSVdrOWtEOE1ORlBuaTZKSE16bVdWb0xwNUMzYmkzM0JjUGZaZjNfSXNvU09PUTNYbVVNaGhvbEE4ekVFOFdQNndRMWRsenF2LU1rNEw2VjBGUzBScC1qVExMUjFiSTg1T1pWckVoOThqcmt5d2FYQkY1SGtBX0hJSlNQcmEyUnN4bnBZSUVMYUg0dEJ2VWdpRnRJZFYwRjlpZGVrVnlJeHY0QkpKc3dCbk5CV1BZQThpTlliVl9PeHVTNzRPaDlEcS1YNnRzcHc?oc=5",
+   "category": "Economy"
+  },
+  {
+   "id": "2083c4f15f",
+   "date": "2026-11-12",
+   "title": "India Slips to 28th in Climate Index as Renewable Energy Gains Face Grid Constraints",
+   "summary": "India Slips to 28th in Climate Index as Renewable Energy Gains Face Grid Constraints The Wave Andaman",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVp1VVVkZEx3Z1NLSE8xSXZrQjA2d3pjbjRPSGo2X3U2YXowOTFEZ0N5aFNSaWh0aVNXN3NvallRX2UtUjRDZUdhaGp6bW9UX1RQYWNla1ZXQzFZUnBYeWpCRG1kUlB5YXlwNWttYkVsdFFremVxRmFhS2w5R0Fzb2NScw?oc=5",
+   "category": "Environment"
+  },
+  {
+   "id": "73d9f9b8c9",
+   "date": "2026-11-12",
+   "title": "India Ranked 28th in Global Climate Change Performance Index",
+   "summary": "India Ranked 28th in Global Climate Change Performance Index The Northlines",
+   "source": "Google News · Environment",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmtZMjdGZ19nSEk2YUdoSDh2MEwxWW9PcmZMMV9sbmt0ZndleThIaWxmcVJxemRhLWJIaTJJUjh1NFJJbU03RERYZUlPSk43YXp1WUwxS0RSdElyajl6cWNfbEprS3JFS3o4a2tZQzYtc3NtRy1Ha25TQUpNUHBldjctVFJGbW5XWGVZMjE4a0w?oc=5",
+   "category": "Reports & Indices"
   },
   {
    "id": "4951c5bdd1",
